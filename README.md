@@ -29,7 +29,6 @@ me = Developer(
     alias="JP",
     tech_stack=["Python", "JavaScript", "HTML", "CSS"],
     interests=["Artificial Intelligence", "Back-end", "Automation"],
-    projects=["Machine Learning Project", "Personal website"]
 )
 
 # Introducing myself
