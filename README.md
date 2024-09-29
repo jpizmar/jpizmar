@@ -21,7 +21,6 @@ class Developer:
         print(f"Hello, I'm {self.name}. My alias is {self.alias}.")
         print(f"My tech stack includes: {', '.join(self.tech_stack)}")
         print(f"I'm interested in: {', '.join(self.interests)}")
-        print(f"My projects include: {', '.join(self.projects)}")
 
 # Creating a Developer object
 me = Developer(
