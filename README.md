@@ -10,12 +10,11 @@ I'm a junior dev who loves building cool stuff. With a strong programming backgr
 
 ```python
 class Developer:
-    def __init__(self, name, alias, tech_stack, interests, projects):
+    def __init__(self, name, alias, tech_stack, interests):
         self.name = name
         self.alias = alias
         self.tech_stack = tech_stack
         self.interests = interests
-        self.projects = projects
 
     def introduce_myself(self):
         print(f"Hello, I'm {self.name}. My alias is {self.alias}.")
